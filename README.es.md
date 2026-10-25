@@ -109,7 +109,7 @@ Participé en un proyecto en equipo que proponía una solución robótica para e
 Me interesa seguir aprendiendo, colaborar en proyectos tecnológicos y explorar nuevas oportunidades.
 
 **GitHub:** [@VictoriaBazan](https://github.com/VictoriaBazan)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](TU_URL_DE_LINKEDIN)
 <div align="center">
 
 ---

@@ -108,6 +108,7 @@ Participated in a team project proposing a robotic solution to deliver medicatio
 I'm open to learning, collaborating on technology projects, and exploring new opportunities.
 
 **GitHub:** [@VictoriaBazan](https://github.com/VictoriaBazan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](TU_URL_DE_LINKEDIN)
 
 <div align="center">
 

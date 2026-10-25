@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="banner-Victoria.png" alt="Victoria Bazán - GitHub Portfolio" width="100%">
+</div>
+
+<div align="center">
 
 # ¡Hola! Soy Victoria Bazán 👋💜
 

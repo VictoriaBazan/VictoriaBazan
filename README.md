@@ -44,12 +44,18 @@ My academic projects have given me experience with programming, interface design
 
 ## 🚀 Featured projects
 
-### 🏦 Banking Management System
-**C# · Windows Forms · Object-Oriented Programming**
+### 📦 [IlcaPoint — Inventory Management System](https://github.com/MasterFx04/IlkaPoint-App)
+**C# · .NET · Frontend Development · Team Project**
 
-Desktop application for simulated banking operations, including deposits, withdrawals, account types, and balance validation.
+Inventory management application developed as a team project. I independently designed and implemented the following frontend sections:
 
-**Repository:** *Link coming soon*
+**My individual contributions (fully developed by me):**
+- Developed the main dashboard interface.
+- Built the inventory overview screen.
+- Created the add-product interface.
+- Developed the product-update interface.
+
+**[View team repository and documentation](https://github.com/MasterFx04/IlkaPoint-App)**
 
 ### 🌡️ Numerical Methods with Arduino
 **Arduino · Python · Sensors · LCD I2C**
@@ -65,14 +71,19 @@ Mobile app prototype designed to simplify in-person professional contact sharing
 
 **Repository / prototype:** *Link coming soon*
 
-### 🎮 Space-themed Game
-**C# · Game Development**
+### 🎮 [SpaceBirds — Space-Themed Game](https://github.com/MasterFx04/spacebirds-game-unity)
+**Unity 2D · C# · Frontend & Game Design · Team Project**
 
-Academic game inspired by Angry Birds, with a space theme and interactive gameplay mechanics.
+Space-themed academic video game developed as a team project. I independently created and implemented the following game components:
 
-**Repository:** *Link coming soon*
+**My individual contributions (fully developed by me):**
+- Created the game characters.
+- Developed the victory and defeat screens.
+- Designed and developed all three game levels.
 
-> Some projects were developed collaboratively. Their existing repositories and documentation will be linked here, with appropriate team credit.
+**[View team repository and documentation](https://github.com/MasterFx04/spacebirds-game-unity)**
+
+> IlcaPoint and SpaceBirds are collaborative projects hosted under the team's repository owner. The components listed above were developed entirely by me; other project components were developed by my teammates, including Génesis, who also worked on frontend development.
 
 ## 🏆 Experience & achievements
 
